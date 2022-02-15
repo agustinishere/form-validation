@@ -26,3 +26,9 @@
   flex-direction: column;
   align-items: flex-start;
 }
+.red {
+  background-color: red;
+}
+.alerting{
+  background-color: orange;
+}
